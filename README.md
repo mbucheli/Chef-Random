@@ -11,8 +11,8 @@ Random Chef gives you a random recipe based on the ingredients you input. Recipe
 * Google Fonts
 
 ## Screenshots
-![desktop view](https://user-images.githubusercontent.com/89373890/133936830-0285542d-21b7-43e1-bd7b-530443f9d962.PNG)
 ![Random Chef mobile view](https://user-images.githubusercontent.com/89373890/133936829-3a5cf2b5-f112-44e3-837a-53437c9bf945.PNG)
+![desktop view](https://user-images.githubusercontent.com/89373890/133936830-0285542d-21b7-43e1-bd7b-530443f9d962.PNG)
 
 ## Getting Started
 Deploy Chef Random [link](https://61476edc82275da63e21a4c5--epic-lewin-71634e.netlify.app/)
